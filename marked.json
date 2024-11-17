@@ -1,10 +1,12 @@
 [
   {
     "username": "Kagaries",
-    "reason": "Hey... Didn't you make this?"
+    "reason": "Hey... Didn't you make this?",
+    "type": "none"
   },
   {
     "username": "Dragon_Sam",
-    "reason": "Sam"
+    "reason": "Sam",
+    "type": "all"
   }
 ]
